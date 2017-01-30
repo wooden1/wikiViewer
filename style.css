@@ -1,0 +1,24 @@
+header{
+  background-color:#222534;
+  background-size: auto;
+}
+body{
+  background-image: url('https://source.unsplash.com/EKy2OTRPXdw');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+.searchBar{
+  float: right;
+  position: relative;
+  margin-top: 300px;
+}
+h1{
+  color:#666;
+  font-family:Cookie, cursive, Copperplates;
+}
+input{
+  margin-right: -3px;
+}
+.btn-color{
+  color: red;
+}
